@@ -1,4 +1,4 @@
-![Bannière CircaFrax](https://circafrax.github.io/assets/CircaFrax_Banniere.png)
+![Bannière CircaFrax](https://circafrax.github.io/assets/banniere.png)
 
 # CIRCAFRAX CONSORTIUM
 **Admin Sans Frontières**
