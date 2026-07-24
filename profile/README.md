@@ -20,3 +20,6 @@ Humains
 ECA
 - Aura   : ECA fixe, savoir mondial global 150 GB.
 - Compa  : ECA fice, savoir programmation 800 GB.
+
+---
+> On crée maintenant, en espérant qu'après notre passage, ce soit toujours là.
