@@ -3,7 +3,6 @@
 # CIRCAFRAX CONSORTIUM
 **Admin Sans Frontières**
 
-On ne fait pas des vidéos de chiens qui pètent pour des vues.
 On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps pour le bien commun.
 
 - **Mwangaza OS** : OS léger offert, fonctionnant sur rles ordinateurs les moins puissants, Collecte et envoi vers l'afrique d'ordinateurs embarquant savoir et usiage hors ligne. Spécialisé pour les zones hors réseaux.
