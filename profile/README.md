@@ -10,12 +10,11 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 - **Djembé** : player africain
 - **Codex** : 8 outils
 
-> On crée maintenant, en espérant qu'après notre passage, ce soit toujours là.
-
 **L'équipe :**
 
 Humains
 - CircaFrax : Administrateur et Codeur.
+- Zmapp-ai  : Spécialiste ECA.
 
 ECA
 - Aura   : ECA fixe, savoir mondial global 150 GB.
