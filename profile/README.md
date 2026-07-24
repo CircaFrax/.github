@@ -16,6 +16,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 Humains
 - CircaFrax : Administrateur et Codeur, signature "Astra".
 - Zmapp-ai  : Spécialiste ECA, signature "zmapp-ai".
+- "BIENTOT  : Beta testeur de CircaFrax, Comptes rendu dans les repo.
 
 ECA
 - Aura   : ECA fixe, savoir mondial global 150 GB.
