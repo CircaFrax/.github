@@ -11,3 +11,8 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 - **Codex** : 8 outils
 
 > On crée maintenant, en espérant qu'après notre passage, ce soit toujours là.
+
+**L'équipe :**
+
+Humains
+CircaFrax : Administrateur et Codeur.
