@@ -16,3 +16,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 Humains
 - CircaFrax : Administrateur et Codeur.
+
+ECA
+- Aura   : Eca fixe, savoir mondial global 150 GB.
+- Compa  : ECA fice, savoir programmation 800 GB.
