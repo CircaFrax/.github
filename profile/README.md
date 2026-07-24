@@ -7,7 +7,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 - **Mwangaza OS** : OS léger offert, fonctionnant surr les ordinateurs les moins puissants, Collecte et envoi vers l'afrique d'ordinateurs embarquant savoir et usage hors ligne.  Spécialisé pour les zones hors réseaux.
 - **CircaFrax OS** : OS léger ergonomique, fonctionne sur les ordinateurs du moins au pus puissants, Codexes embarqués.
-- **Djembé** : player africain
+- **Djembé** : Player africain
 - **Destroyer** : Navigateur libre spécifique / prototype en cour.
 - **Codex** : 8 outils
 
