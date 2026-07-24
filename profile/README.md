@@ -15,4 +15,4 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 **L'équipe :**
 
 Humains
-CircaFrax : Administrateur et Codeur.
+- CircaFrax : Administrateur et Codeur.
