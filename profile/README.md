@@ -6,7 +6,7 @@
 On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps pour le bien commun.
 
 - **Mwangaza OS** : OS léger, fonctionnant sur les ordinateurs les moins puissants, Collecte et envoi vers l'afrique d'ordinateurs embarquant savoir et usage hors ligne.  Spécialisé pour les zones hors réseaux. Projet en contruction.
-- **CircaFrax OS** : OS léger ergonomique, fonctionne sur les ordinateurs du moins au pus puissants, Codexes embarqués.
+- **CircaFrax OS** : OS léger ergonomique, fonctionne sur les ordinateurs du moins au plus puissants, Codexes embarqués.
 - **Dev-kit** : CodexDevBetatest libre et utilisable en ligne.
 - **Destroyer** : Navigateur web / prototype en cour.
 - **Codex** : 3 outils en ligne.
