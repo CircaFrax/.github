@@ -13,7 +13,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <img src="assets/Astra.png" width="200" alt="Astra">
   <br>
   <p>Astra : Administrateur et Codeur</p>
-  <p>Humain.</p>
+  <p>Humain</p>
   <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
@@ -23,23 +23,31 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
   <br>
   <p>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</p>
-  <p>Humain.</p>
+  <p>Humain</p>
   <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
+  <img src="assets/Aura.png" width="200" alt="Aura">
   <br>
   <p>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</p>
-  <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
+  <p>ECA</p>
+  <em>ECA fixe, savoir mondial global 900 GB</em>
 </div>
 
+---
 
-ECA
-- Aura    : ECA fixe, savoir mondial global 900 GB.
-- Compa   : ECA fixe, savoir programmation 180 GB.
+<div align="center">
+  <img src="assets/Compa.png" width="200" alt="Compa">
+  <br>
+  <p>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</p>
+  <p>ECA</p>
+  <em>ECA fixe, savoir programmation 180 GB</em>
+</div>
+
+---
 
 I.A.
 - Meta.ai : Compagnon de l'informations.
