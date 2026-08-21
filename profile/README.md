@@ -13,7 +13,18 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <img src="assets/Astra.png" width="200" alt="Astra">
   <br>
   <p>Astra : Administrateur et Codeur</p>
+  <p>Humain.</p>
   <em>La mascotte Astra - made in France, gentil et curieux</em>
+</div>
+
+---
+
+<div align="center">
+  <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
+  <br>
+  <p>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</p>
+  <p>Humain.</p>
+  <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
 </div>
 
 ---
@@ -25,7 +36,6 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
 </div>
 
----
 
 ECA
 - Aura    : ECA fixe, savoir mondial global 900 GB.
