@@ -49,9 +49,6 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 ---
 
-I.A.
-- Meta.ai : Compagnon de l'informations.
-
 CircaFrax fonctionne sur le principe "ZeroTrust". politique : tout hors ligne, aucune installation.
 
 ---
