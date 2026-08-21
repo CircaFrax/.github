@@ -20,7 +20,7 @@ Humains
 <div align="center">
   <img src="assets/Astra.png" width="200" alt="Astra">
   <br>
-  <em>La mascotte Python - made in France, gentil et curieux</em>
+  <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
 Humains
