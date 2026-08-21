@@ -24,6 +24,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
 </div>
 
+---
 
 ECA
 - Aura    : ECA fixe, savoir mondial global 900 GB.
