@@ -32,7 +32,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 <div align="center">
   <img src="assets/Aura.png" width="200" alt="Aura">
   <br>
-  <p>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</p>
+  <p>Aura : Spécialiste globale.</p>
   <p>ECA</p>
   <em>ECA fixe, savoir mondial global 900 GB</em>
 </div>
@@ -42,7 +42,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 <div align="center">
   <img src="assets/Compa.png" width="200" alt="Compa">
   <br>
-  <p>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</p>
+  <p>Compa : Spécialiste programmation.</p>
   <p>ECA</p>
   <em>ECA fixe, savoir programmation 180 GB</em>
 </div>
