@@ -7,7 +7,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 **L'équipe :**
 
-<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #0a1228, #d4af37); margin: 40px 0; border-radius: 2px;">
 
 <div align="center">
   <img src="assets/Astra.png" width="200" alt="Astra">
@@ -17,7 +17,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
-<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #0a1228, #d4af37); margin: 40px 0; border-radius: 2px;">
 
 <div align="center">
   <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
@@ -27,7 +27,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
 </div>
 
-<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #0a1228, #d4af37); margin: 40px 0; border-radius: 2px;">
 
 <div align="center">
   <img src="assets/Aura.png" width="200" alt="Aura">
@@ -37,7 +37,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>ECA fixe, savoir mondial global 900 GB</em>
 </div>
 
-<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #0a1228, #d4af37); margin: 40px 0; border-radius: 2px;">
 
 <div align="center">
   <img src="assets/Compa.png" width="200" alt="Compa">
@@ -47,7 +47,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>ECA fixe, savoir programmation 180 GB</em>
 </div>
 
-<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #0a1228, #d4af37); margin: 40px 0; border-radius: 2px;">
 
 CircaFrax fonctionne sur le principe "ZeroTrust". politique : tout hors ligne, aucune installation.
 
