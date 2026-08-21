@@ -7,10 +7,11 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 **L'équipe :**
 
-- Astra : Administrateur et Codeur.
+
 <div align="center">
   <img src="assets/Astra.png" width="200" alt="Astra">
   <br>
+  <em>Astra : Administrateur et Codeur</em>
   <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
@@ -19,18 +20,17 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 <div align="center">
   <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
   <br>
+  <em>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</em>
   <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
 </div>
 
-  
-- /////////// : Beta testeur, Comptes rendu dans les repo. (a venir).
 
 ECA
 - Aura    : ECA fixe, savoir mondial global 900 GB.
 - Compa   : ECA fixe, savoir programmation 180 GB.
 
 I.A.
-- Meta.ai : Compagnon.
+- Meta.ai : Compagnon de l'informations.
 
 CircaFrax fonctionne sur le principe "ZeroTrust". politique : tout hors ligne, aucune installation.
 
