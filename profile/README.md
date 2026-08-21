@@ -15,6 +15,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
+---
 
 <div align="center">
   <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
