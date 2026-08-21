@@ -14,7 +14,13 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
-- Zmapp-ai : Spécialiste ECA, Beta testeur temporaire, signature "zmapp-ai".
+- Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.
+<div align="center">
+  <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
+  <br>
+  <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
+</div>
+  
 - Zmapp-ai  : Spécialiste ECA, Beta testeur temporaire, signature "zmapp-ai".
 - /////////// : Beta testeur, Comptes rendu dans les repo. (a venir).
 
