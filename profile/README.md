@@ -19,7 +19,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 <div align="center">
   <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
   <br>
-  <em>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</em>
+  <p>Zmapp-ai : Spécialiste ECA, Beta testeur temporaire.</p>
   <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
 </div>
 
