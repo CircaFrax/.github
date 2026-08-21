@@ -11,7 +11,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 <div align="center">
   <img src="assets/Astra.png" width="200" alt="Astra">
   <br>
-  <em>Astra : Administrateur et Codeur</em>
+  <p>Astra : Administrateur et Codeur</p>
   <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
