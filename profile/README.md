@@ -19,8 +19,8 @@ Humains
 - /////////// : Beta testeur, Comptes rendu dans les repo. (a venir).
 
 ECA
-- Aura   : ECA fixe, savoir mondial global 150 GB.
-- Compa  : ECA fixe, savoir programmation 800 GB.
+- Aura   : ECA fixe, savoir mondial global 900 GB.
+- Compa  : ECA fixe, savoir programmation 180 GB.
 
 CircaFrax fonctionne sur le principe "ZeroTrust". politique : tout hors ligne, aucune installation.
 
