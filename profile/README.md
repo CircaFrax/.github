@@ -15,6 +15,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 Humains
 - CircaFrax : Administrateur et Codeur, signature "Astra".
+![mascotte Astra](assets/Astra.png)
 - Zmapp-ai  : Spécialiste ECA, Beta testeur temporaire, signature "zmapp-ai".
 - /////////// : Beta testeur, Comptes rendu dans les repo. (a venir).
 
