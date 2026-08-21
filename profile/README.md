@@ -11,11 +11,9 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 - **Destroyer** : Navigateur web / prototype en cour.
 - **Codex** : 3 outils en ligne.
 
-**L'équipe :**
 
-Humains
-- CircaFrax : Administrateur et Codeur, signature "Astra".
 **L'équipe :**
+Humains
 
 <div align="center">
   <img src="assets/Astra.png" width="200" alt="Astra">
