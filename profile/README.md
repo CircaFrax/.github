@@ -49,7 +49,6 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0a1228, #d4af37); margin: 40px 0; border-radius: 2px;">
 
-CircaFrax fonctionne sur le principe "ZeroTrust". politique : tout hors ligne, aucune installation.
+> CircaFrax fonctionne sur le principe "ZeroTrust". politique : tout hors ligne, aucune installation.
 
----
 > On crée maintenant, en espérant qu'après notre passage, ce soit toujours là.
