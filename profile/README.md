@@ -7,7 +7,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 **L'équipe :**
 
----
+<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
 
 <div align="center">
   <img src="assets/Astra.png" width="200" alt="Astra">
