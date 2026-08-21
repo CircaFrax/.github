@@ -13,16 +13,14 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 
 **L'équipe :**
-Humains
 
+- Astra : Administrateur et Codeur.
 <div align="center">
   <img src="assets/Astra.png" width="200" alt="Astra">
   <br>
   <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
-Humains
-- Astra : Administrateur et Codeur.
 - Zmapp-ai : Spécialiste ECA, Beta testeur temporaire, signature "zmapp-ai".
 - Zmapp-ai  : Spécialiste ECA, Beta testeur temporaire, signature "zmapp-ai".
 - /////////// : Beta testeur, Comptes rendu dans les repo. (a venir).
