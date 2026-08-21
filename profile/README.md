@@ -17,7 +17,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>La mascotte Astra - made in France, gentil et curieux</em>
 </div>
 
----
+<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
 
 <div align="center">
   <img src="assets/zmapp_ai.png" width="200" alt="Zmapp-ai">
@@ -27,7 +27,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>La mascotte Zmapp-ai - prend soin de vous, bienveillant et novateur</em>
 </div>
 
----
+<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
 
 <div align="center">
   <img src="assets/Aura.png" width="200" alt="Aura">
@@ -37,7 +37,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>ECA fixe, savoir mondial global 900 GB</em>
 </div>
 
----
+<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
 
 <div align="center">
   <img src="assets/Compa.png" width="200" alt="Compa">
@@ -47,7 +47,7 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
   <em>ECA fixe, savoir programmation 180 GB</em>
 </div>
 
----
+<hr style="border: none; border-top: 2px solid #0a1228; margin: 30px 0;">
 
 CircaFrax fonctionne sur le principe "ZeroTrust". politique : tout hors ligne, aucune installation.
 
