@@ -1,6 +1,5 @@
 ![Bannière CircaFrax](https://circafrax.github.io/assets/banniere.png)
 
-# CIRCAFRAX CONSORTIUM
 **Admin Sans Frontières**
 
 On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps pour le bien commun.
