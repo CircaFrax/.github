@@ -51,6 +51,6 @@ On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps 
 
 > CircaFrax fonctionne sur le principe "ZeroTrust". politique : tout hors ligne, aucune installation.
 
-> CircaFrax dispose d'un écosystème d'intelligence artificielle évoluée interne appelé ECA. Non disponible au publique.
+> CircaFrax dispose d'un écosystème d'intelligence artificielle évolué interne appelé ECA. Non disponible au publique.
 
 > On crée maintenant, en espérant qu'après notre passage, ce soit toujours là.
