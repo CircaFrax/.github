@@ -31,7 +31,7 @@ Pour les entreprises, les indépendants ou simplement la vie privée, envoyer un
 
 ### Démarrage rapide
 
-1. Choisissez un outil dans la liste ci-dessous
+1. Choisissez un outil sur la page d'accueil
 2. Téléchargez-le
 3. Lancez-le sur votre PC. Aucune connexion internet requise.
 
