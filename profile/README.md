@@ -45,6 +45,8 @@ Pour les entreprises, les indépendants ou simplement la vie privée, envoyer un
 - [CodexPrism] - Outil convertisseur de formats.
 - [CodexGenQrCode] - Outil de création de QR codes.
 - [CodexHiddenWind] - Suppresseur de métadonnées.
+- [CodexGenNamae] - Générateur de noms.
+
 
 **L'équipe :**
 
