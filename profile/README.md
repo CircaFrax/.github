@@ -31,7 +31,7 @@ Pour les entreprises, les indépendants ou simplement la vie privée, envoyer un
 
 ### Démarrage rapide
 
-1. Choisissez un outil sur la page d'accueil
+1. Choisissez un outil sur la page d'accueil https://circafrax.github.io/
 2. Téléchargez-le
 3. Lancez-le sur votre PC. Aucune connexion internet requise.
 
