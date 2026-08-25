@@ -38,12 +38,17 @@ Pour les entreprises, les indépendants ou simplement la vie privée, envoyer un
 ### Les outils
 
 - [CodexPdf] - Couteau suisse PDF.
+https://github.com/CircaFrax/CodexPdf
 - [CodexCompresson] - Outil de compression.
-- [CodexPrism] - Outil convertisseur de formats.
+https://github.com/CircaFrax/CodexCompression
+- [CodexPrisme] - Outil convertisseur de formats.
+https://github.com/CircaFrax/CodexPrisme
 - [CodexGenQrCode] - Outil de création de QR codes.
+https://github.com/CircaFrax/CodexGenQrcode
 - [CodexHiddenWind] - Suppresseur de métadonnées.
+https://github.com/CircaFrax/CodexHiddenWind
 - [CodexGenNamae] - Générateur de noms.
-
+https://github.com/CircaFrax/CodexGenNamae
 
 **L'équipe :**
 
