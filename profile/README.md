@@ -4,11 +4,6 @@
 
 On rassemble des esprits clairs, créatifs et généreux qui donnent leur temps pour le bien commun.
 
-# CircaFrax
-
-> **Vos outils restent à la maison, avec vous.**
-> Gratuit, libre et sans pub. 100% local, 0% internet. Vos fichiers ne quittent jamais votre PC.
-
 ### Bienvenue chez CircaFrax
 
 CircaFrax crée des outils simples et utiles qui fonctionnent entièrement sur votre PC.
@@ -16,6 +11,8 @@ CircaFrax crée des outils simples et utiles qui fonctionnent entièrement sur v
 Pas de compte à créer, pas d'abonnement, pas de publicité. Et surtout, pas d'envoi de vos fichiers sur internet.
 
 Vous téléchargez l'outil, vous l'utilisez. Tout se passe chez vous.
+
+Gratuit, libre et sans pub. 100% local, 0% internet. Vos fichiers ne quittent jamais votre PC.
 
 ### Pourquoi 100% local ?
 
