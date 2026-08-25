@@ -43,7 +43,8 @@ Pour les entreprises, les indépendants ou simplement la vie privée, envoyer un
 - [CodexPdf] - Couteau suisse PDF.
 - [CodexCompresson] - Outil de compression.
 - [CodexPrism] - Outil convertisseur de formats.
-
+- [CodexGenQrCode] - Outil de création de QR codes.
+- [CodexHiddenWind] - Suppresseur de métadonnées.
 
 **L'équipe :**
 
